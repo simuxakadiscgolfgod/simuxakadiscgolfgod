@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=2500&pause=2000&color=F7F7F7&background=FF09A800&center=true&vCenter=true&multiline=true&random=false&lines=Welcome+to+my+Git+Hub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=2500&pause=2000&color=F7F7F7&background=FF09A800&center=true&vCenter=true&multiline=true&random=false&width=450&lines=Welcome+to+my+Git+Hub+profile!)](https://git.io/typing-svg)
 - 💬 Ask me about data analysis, biosciences and bouldering.
 - 🔭 Check out my visualizations [here](https://public.tableau.com/app/profile/simas.jasiunas/vizzes)!
 - 📫 You can reach me on [![General badge](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/simasjasiunas).  
